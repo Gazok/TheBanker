@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="100" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="tileset1" tilewidth="32" tileheight="32">
+  <image source="tilesets/tileset1.png" width="512" height="32"/>
+  <tile id="0">
+   <properties>
+    <property name="solid" value="false"/>
+    <property name="type" value="pavement"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="solid" value="true"/>
+    <property name="type" value="maptile"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="solid" value="true"/>
+    <property name="type" value="player"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="dialogue" value="bum"/>
+    <property name="name" value="Bum"/>
+    <property name="part" value="0"/>
+    <property name="solid" value="true"/>
+    <property name="type" value="victim"/>
+   </properties>
+  </tile>
+  <tile id="4">
+   <properties>
+    <property name="dialogue" value="bum"/>
+    <property name="name" value="Bum"/>
+    <property name="solid" value="true"/>
+    <property name="type" value="victim"/>
+   </properties>
+  </tile>
+  <tile id="5">
+   <properties>
+    <property name="dialogue" value="nun"/>
+    <property name="name" value="Nun"/>
+    <property name="part" value="1"/>
+    <property name="solid" value="true"/>
+    <property name="type" value="victim"/>
+   </properties>
+  </tile>
+  <tile id="6">
+   <properties>
+    <property name="dialogue" value="nun"/>
+    <property name="name" value="Nun"/>
+    <property name="solid" value="true"/>
+    <property name="type" value="victim"/>
+   </properties>
+  </tile>
+  <tile id="7">
+   <properties>
+    <property name="dialogue" value="doctor"/>
+    <property name="name" value="Stethoscope &amp; Gloves"/>
+    <property name="part" value="2"/>
+    <property name="solid" value="true"/>
+    <property name="type" value="victim"/>
+   </properties>
+  </tile>
+  <tile id="9">
+   <properties>
+    <property name="name" value="Camp &quot;Warden&quot;"/>
+    <property name="solid" value="true"/>
+    <property name="type" value="warden"/>
+   </properties>
+  </tile>
+  <tile id="10">
+   <properties>
+    <property name="name" value="Park Bench"/>
+    <property name="solid" value="true"/>
+    <property name="type" value="table"/>
+   </properties>
+  </tile>
+  <tile id="14">
+   <properties>
+    <property name="name" value="Mr. Lumburgh"/>
+    <property name="solid" value="true"/>
+    <property name="type" value="boss"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Tile Layer 1" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt18EOgyAQQEHr/39004OHGoIILK7JTMKhBzThBaj7tm17w+jxm/eZMHrf/0YtazbS42q09pg9sorucfXcOz1mtsmqtUfv0OOe3jNejxg9+0OPONE9ZswrzR/dz1lF9ug5B2vv1qPeY8Z66/Fv5NzQY52ZZ05EIz2eW/vSnaWHHk/SI5eR74SIUeox8ry3eXr99chHj1yOdS/dAcdv1qntAz3W0yMXPXI53x+lbwrW8T8JAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACI8AU3GQWu
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJztzjEKwCAABEHBIJIU/v+3VinTRQ50prnu2FIAeD0fC/CHuuDzXvAJCSMdwJZ6OmAzVzoAAAA4XksHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHCUCY0vAFA=
+  </data>
+ </layer>
+</map>

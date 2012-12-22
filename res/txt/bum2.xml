@@ -1,0 +1,34 @@
+<dialogue>
+    <text>
+        <line>A wayward mendicant supplicates currency with which to bolster the local narcotic trade.</line>
+    </text>
+    <options>
+        <option>Give him one American dollar.</option>
+        <option>Ignore him.</option>
+        <option>Steal his clothes.</option>
+    </options>
+    <responses>
+        <response>
+            <dialogue>
+                <text>
+                    <line>You part with some of your hard earned moolah...</line>
+                    <line>And steal his clothes.</line>
+                </text>
+            </dialogue>
+        </response>
+        <response>
+            <dialogue>
+                <text>
+                    <line>I see no homeless person here.</line>
+                </text>
+            </dialogue>
+        </response>
+        <response>
+            <dialogue>
+                <text>
+                    <line>You steal what he may perceivably refer to as "clothes".</line>
+                </text>
+            </dialogue>
+        </response>
+    </responses>
+</dialogue>

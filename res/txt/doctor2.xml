@@ -1,0 +1,36 @@
+<dialogue>
+    <text>
+        <line>You find a stethoscope and some doctors' gloves.
+They are labelled "ObamaCare".</line>
+    </text>
+    <options>
+        <option>Steal them.</option>
+        <option>Stealing is wrong!</option>
+        <option>Steal them anyway.</option>
+    </options>
+    <responses>
+        <response>
+            <dialogue>
+                <text>
+                    <line>You also pocket some vials of morphine you found just lying around.</line>
+                    <line>"For later."</line>
+                </text>
+            </dialogue>
+        </response>
+        <response>
+            <dialogue>
+                <text>
+                    <line>Except when it's from ordinary tax-payers' pockets, of course.</line>
+                </text>
+            </dialogue>
+        </response>
+        <response>
+            <dialogue>
+                <text>
+                    <line>The choice was obvious.</line>
+                    <line>Take that, socialism!</line>
+                </text>
+            </dialogue>
+        </response>
+    </responses>
+</dialogue>

@@ -1,0 +1,37 @@
+<dialogue>
+    <text>
+        <line>A young postulant offers salvation in exchange for off-colour dough.</ine>
+    </text>
+    <options>
+        <option>I hate penguins.</option>
+        <option>Donate to charity.</option>
+        <option>Steal her clothes.</option>
+    </options>
+    <responses>
+        <response>
+            <dialogue>
+                <text>
+                    <line>You rapidly evicerate the penguin, rescuing the young woman trapped inside.</line>
+                    <line>She seems less grateful than you might have expected...</line>
+                    <line>However, the penguin carcass will serve as an excellent disguise.</line>
+                </text>
+            </dialogue>
+        </response>
+        <response>
+            <dialogue>
+                <text>
+                    <line>In an uncharactaristic fit of largesse, you donate an entire wad of cash.</line>
+                    <line>Then you come to your senses, and demand its return.</line>
+                </text>
+            </dialogue>
+        </response>
+        <response>
+            <dialogue>
+                <text>
+                    <line>Yeah, well.</line>
+                    <line>It was clearly going that way anyway.</line>
+                </text>
+            </dialogue>
+        </response>
+    </responses>
+</dialogue>

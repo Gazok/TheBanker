@@ -1,0 +1,25 @@
+<dialogue>
+    <text>
+        <line>A strange man up and offers you some cheese</ine>
+    </text>
+    <options>
+        <option>I like cheese.</option>
+        <option>I hate cheese.</option>
+    </options>
+    <responses>
+        <response>
+            <dialogue>
+                <text>
+                    <line>Cheese is amazingly good!</line>
+                </text>
+            </dialogue>
+        </response>
+        <response>
+            <dialogue>
+                <text>
+                    <line>Yeah, cheese ain't all that.</line>
+                </text>
+            </dialogue>
+        </response>
+    </responses>
+</dialogue>
