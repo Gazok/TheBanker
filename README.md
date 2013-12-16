@@ -1,7 +1,7 @@
 The Banker
 ==========
 
-An [LD48](http://ludumdare.com) Jam entry.
+An [LD48](http://ludumdare.com) Compo entry.
 
 Theme: You Are The Villain
 
